@@ -1,0 +1,4 @@
+# Yoshinori Kurimoto 03022025
+# SPDX-License-Identifier: Apache-2.0
+
+rsource "drivers/adc/Kconfig"

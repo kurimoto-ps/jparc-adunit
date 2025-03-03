@@ -1,0 +1,8 @@
+# Yoshinori Kurimoto 03.02.2025
+# SPDX-License-Identifier: Apache-2.0
+
+if ADC
+
+rsource "Kconfig.adc_stm32_custom"
+
+endif

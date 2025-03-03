@@ -1,0 +1,8 @@
+# 03022025 Yoshinori Kurimoto
+# SPDX-License-Identifier: Apache-2.0
+
+build:
+  kconfig: zephyr/Kconfig
+  cmake: zephyr
+  settings:
+    dts_root: zephyr
